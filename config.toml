@@ -167,13 +167,13 @@ enableEmoji = true
     name = "Projects"
     title = "Project Portfolio"
     url = "/project/"
-    identifier = "Archive"
+    identifier = "/archive/"
     weight = 3
   [[menu.header]]
     name = "Archive"
     title = "Archive Projects"
     url = "/archive/"
-    parent = "Projects"
+    parent = "/project/"
     weight = 4  
   [[menu.header]]
     name = "Publications"
