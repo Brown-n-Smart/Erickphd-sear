@@ -10,7 +10,8 @@ doi: "https://doi.org/10.1016/j.trd.2019.05.005"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-07-01T00:00:00Z"
-
+categories:
+- workshop
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;

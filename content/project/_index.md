@@ -3,13 +3,13 @@ title: Projects
 description: | 
 
 author: 
-show_post_thumbnail: true
+show_post_thumbnail: false
 thumbnail_left: true # for list-sidebar only
 show_author_byline: true
 show_post_date: true
 show_button_links: false
 # for listing page layout
-layout: list-grid # list, list-sidebar, list-grid
+layout: list # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
